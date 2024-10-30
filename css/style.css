@@ -1,0 +1,41 @@
+#recipes .badge-pill {
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    margin-right: 0.6em;
+}
+
+#recipes .collapse-detail {
+    padding: 8px;
+}
+
+#recipes .recipe-title {
+    margin-top: 12px;
+}
+
+#recipes .recipe-tag-list {
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+
+#recipes p.excerpt {
+    margin-bottom: 8px;
+}
+
+#recipes ol.carousel-indicators {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+#recipes a.carousel-control-next, a.carousel-control-prev {
+    bottom: 80px;
+}
+
+@media (max-width: 767.98px) {
+    #recipes ol.carousel-indicators {
+        display: flex;
+    }
+}
+
+#recipes ol.carousel-indicators li {
+    width: 5em;
+}

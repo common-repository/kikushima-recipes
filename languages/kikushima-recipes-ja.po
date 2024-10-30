@@ -1,0 +1,130 @@
+# Copyright (C) 2020 kikushima
+# This file is distributed under the same license as the Kikushima Jobs plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kikushima Jobs 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kikushima-jobs\n"
+"Last-Translator: KIKU TOU <info@kikushima-japan.co.jp>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-05-19T08:30:54+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: kikushima-jobs\n"
+
+#. Plugin Name of the plugin
+msgid "Kikushima Jobs"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add jobs shortcode to display jobs on the recruit page"
+msgstr "ショットコードを使って、ページにレシピを簡単に表示できます。"
+
+#. Author of the plugin
+msgid "kikushima"
+msgstr "菊島株式会社"
+
+#. Author URI of the plugin
+msgid "https://kikushima-japan.co.jp"
+msgstr "https://kikushima-japan.co.jp"
+
+#: kikushima-jobs.php:55
+msgid "recipe"
+msgstr "レシピ"
+
+#: kikushima-jobs.php:56
+#: kikushima-jobs.php:66
+msgid "recipes"
+msgstr "レシピ"
+
+#: kikushima-jobs.php:57
+#: kikushima-jobs.php:58
+#: kikushima-jobs.php:60
+msgid "new recipe"
+msgstr "新規作成"
+
+#: kikushima-jobs.php:59
+msgid "edit recipe"
+msgstr "編集"
+
+#: kikushima-jobs.php:61
+#: kikushima-jobs.php:62
+msgid "show recipe"
+msgstr "表示"
+
+#: kikushima-jobs.php:63
+msgid "search recipe"
+msgstr "検索"
+
+#: kikushima-jobs.php:64
+msgid "no such recipe."
+msgstr "レシピが見つかりません。"
+
+#: kikushima-jobs.php:65
+msgid "no recipes in trash."
+msgstr "ゴミ箱にレシピがありません。"
+
+#: kikushima-jobs.php:104
+#: kikushima-jobs.php:105
+#: kikushima-jobs.php:106
+#: kikushima-jobs.php:116
+msgid "tag"
+msgstr "材料"
+
+#: kikushima-jobs.php:107
+msgid "tags"
+msgstr "材料"
+
+#: kikushima-jobs.php:108
+msgid "edit tag"
+msgstr "材料を編集"
+
+#: kikushima-jobs.php:109
+msgid "show tag"
+msgstr "材料を表示"
+
+#: kikushima-jobs.php:110
+msgid "update tag"
+msgstr "材料を更新"
+
+#: kikushima-jobs.php:111
+#: kikushima-jobs.php:112
+msgid "new tag"
+msgstr "材料を新規作成"
+
+
+msgid "category"
+msgstr "分類"
+
+#: kikushima-jobs.php:107
+msgid "categories"
+msgstr "分類"
+
+#: kikushima-jobs.php:108
+msgid "edit category"
+msgstr "分類を編集"
+
+#: kikushima-jobs.php:109
+msgid "show category"
+msgstr "分類を表示"
+
+#: kikushima-jobs.php:110
+msgid "update category"
+msgstr "分類を更新"
+
+#: kikushima-jobs.php:111
+#: kikushima-jobs.php:112
+msgid "new category"
+msgstr "分類を新規作成"
+
+#: kikushima-jobs.php:167
+msgid "No recipes available at the moment."
+msgstr "該当レシピが見つかりません。"
+
+msgid "show detail"
+msgstr "詳細をみる"
+
+msgid "close detail"
+msgstr "詳細を閉じる"
